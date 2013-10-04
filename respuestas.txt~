@@ -1,11 +1,17 @@
+Enrique Tejera González
+L10
+Respuestas de las preguntas de la practica 3.
+
+1º Pregunta:
+
+La diferencia es que con "" se intrerpreta el contenido. Con '' no se interpreta.
+
+2º Pregunta:
+
+%q{hello world\n}
+=> "hello world\\n"
 
 
-D
-C
-C
-
-D
-C
-C
-C
+%q{'a' 'b' 'c'}
+=> "'a' 'b' 'c'"
 
